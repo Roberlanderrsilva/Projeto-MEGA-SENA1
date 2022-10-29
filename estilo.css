@@ -1,0 +1,51 @@
+body {
+    background-color: purple;
+    padding: 2px;
+    margin-top: 2PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+.mega {
+  font-size: 50px;
+  color: white;
+}
+
+  .numbers {
+    border: 5px solid rgb(251, 252, 253);
+    border-radius: 10px;
+    padding: 6px;
+    list-style-type: none;
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+  
+  .number {
+    display: inline-block;
+    margin: 5px;
+    border: 2px solid rgb(241, 224, 224);
+    width: 25px;
+    border-radius: 100%;
+    padding: 10px;
+    user-select: none;
+    cursor: pointer;
+    font-family: Arial black, Helvetica, sans-serif;
+}
+  
+  .selected-number {
+    background-color: rgb(15, 168, 92);
+  }
+
+
+
+ 
+  
+  
+  
+  
+  
